@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Rob T, @rbtatklik, Industrial Designer
+- 👋 Hi, I’m Rob T, @rbtatklik, Industrial Designer, Pratt '84
+- _v--T  Amateur Radio Extra License
 - 35 years IT User Interface and Data Driven Interactive Application Development
 - 55 years Classic Industrial Design - housewares, sporting goods, hand tools, personal electronics
 - 30 years Commercial Interior, Fixture, Display and Exhibit Design 
